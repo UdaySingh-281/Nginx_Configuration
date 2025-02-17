@@ -19,5 +19,5 @@ This Ansible playbook automates the installation and configuration of Nginx on t
 
 ### 1. Clone the repository
 ```sh
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/UdaySingh-281/Nginx_Configuration.git
+cd Nginx_Configuration
